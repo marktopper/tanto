@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/tanto/tanto.svg?style=flat-square)](https://packagist.org/packages/tanto/tanto)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](license.txt)
-[![Total Downloads](https://img.shields.io/packagist/dt/themsaid/katana-core.svg?style=flat-square)](https://packagist.org/packages/tanto/core)
+[![Total Downloads](https://img.shields.io/packagist/dt/tanto/core.svg?style=flat-square)](https://packagist.org/packages/tanto/core)
 
 PHP static site generator with markdown support.
 
