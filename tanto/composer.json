@@ -1,0 +1,15 @@
+{
+  "name": "tanto/tanto",
+  "description": "A neat static site generator with markdown support.",
+  "keywords": ["flat-file","cms","static","site","generator","markdown","blade"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mark Topper",
+      "email": "mark@ulties.com"
+    }
+  ],
+  "require": {
+    "tanto/core": "^0.0.2"
+  }
+}
