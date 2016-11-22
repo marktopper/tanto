@@ -16,7 +16,7 @@
 
         This is the homescreen, and the content of `content/index.blade.php`.
 
-        > Please not that this CMS is still in alpha.
+        > Please note that this CMS is still in alpha.
 
         #### Feature list:
 
